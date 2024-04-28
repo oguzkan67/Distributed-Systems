@@ -1,0 +1,46 @@
+Distributed Systems Fundamentals: Centralized vs. Decentralized Systems
+Distributed systems are systems that consist of multiple computers that coordinate to solve a single problem. These computers communicate with each other to achieve a common goal.
+
+Centralized systems, on the other hand, are systems in which all control and processing are done by a single computer or server.
+
+Key differences between centralized and decentralized systems:
+
+Control:
+
+Centralized: All control and decision-making authority resides in a central computer or server.
+Decentralized: Control and decision-making authority is distributed among multiple computers in a network.
+Processing:
+
+Centralized: All processing is done by a central computer or server.
+Decentralized: Processing is distributed among multiple computers in the network.
+Data:
+
+Centralized: All data is stored on a central computer or server.
+Decentralized: Data is distributed among multiple computers in the network.
+Fault Tolerance:
+
+Centralized: If the central computer or server fails, the entire system can crash.
+Decentralized: If one computer fails, other computers can continue to operate the system.
+Security:
+
+Centralized: More vulnerable to attacks since all data and processing are at a central point.
+Decentralized: More secure since data and processing are distributed.
+Scalability:
+
+Centralized: Can be difficult to add new users and data.
+Decentralized: Easy to scale by adding new computers.
+Use Cases:
+
+Centralized: Websites, email servers, banking systems, etc.
+Decentralized: Blockchain, file-sharing networks, social media platforms, etc.
+Benefits of distributed systems:
+
+Increased scalability: Can easily scale by adding more computers.
+Increased reliability: If one computer fails, other computers can keep the system running.
+Increased availability: System components can be located in different geographic locations.
+Drawbacks of distributed systems:
+
+Complexity: More complex to design and manage than centralized systems.
+Cost: Need to purchase and manage multiple computers and software.
+Security: More security risks due to multiple computers.
+Distributed systems are used in a wide variety of applications, including websites, e-commerce platforms, banking systems, blockchain, and more
